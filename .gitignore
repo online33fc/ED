@@ -1,4 +1,4 @@
-**/*.exe
-**/.vscode/
 **/*.DS_Store
+.vscode
+**/*.exe
 
